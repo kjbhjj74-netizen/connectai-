@@ -8,7 +8,7 @@
   "icon": "assets/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wonseokjung/connect-ai"
+    "url": "https://github.com/kjbhjj74-netizen/connectai-.git"
   },
   "engines": {
     "vscode": "^1.80.0"
